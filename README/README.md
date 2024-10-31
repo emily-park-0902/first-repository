@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/241efcfb-cea1-4f47-b6a8-f0d29da47407)# AIFFEL Campus Online Code Peer Review Templete
+
 - 코더 : 박정현
 - 리뷰어 : 김태훈
 
