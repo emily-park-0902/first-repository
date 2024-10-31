@@ -36,8 +36,6 @@
         
 - [ㅇ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
-    - ![image](https://github.com/user-attachments/assets/301e358e-08ec-4ca3-ad22-1b2d39cfd0d1)
-
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - ![image](https://github.com/user-attachments/assets/f4c4475a-c984-4268-ae7b-d20762b23bb7)
