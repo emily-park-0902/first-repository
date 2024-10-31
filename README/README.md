@@ -1,4 +1,4 @@
-# AIFFEL Campus Online Code Peer Review Templete
+![image](https://github.com/user-attachments/assets/241efcfb-cea1-4f47-b6a8-f0d29da47407)# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 박정현
 - 리뷰어 : 김태훈
 
@@ -14,6 +14,8 @@
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
+    - test = string[::-1] # 문자열 반전시키는 명령어라서
+    - 
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
@@ -32,10 +34,14 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         
-- [ ]  **5. 코드가 간결하고 효율적인가요?**
+- [ㅇ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
+    - ![image](https://github.com/user-attachments/assets/301e358e-08ec-4ca3-ad22-1b2d39cfd0d1)
+
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - ![image](https://github.com/user-attachments/assets/f4c4475a-c984-4268-ae7b-d20762b23bb7)
+
 
 
 # 회고(참고 링크 및 코드 개선)
