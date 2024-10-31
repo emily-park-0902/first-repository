@@ -45,7 +45,7 @@
 # 회고(참고 링크 및 코드 개선)
 ```
 참고 : 파이썬 스타일 가이드 (PEP8)
-Visit href="https://velog.io/@treamor/python-PEP8-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C"
+Visit https://velog.io/@treamor/python-PEP8-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C
 
 주석이 있어서 추가 설명이 있으면 더 좋을것 같아요 ^^
 
